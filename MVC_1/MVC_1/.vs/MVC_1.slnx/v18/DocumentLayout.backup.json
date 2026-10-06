@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\controllers\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\controllers\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\controllers\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\controllers\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\views\\kitap\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\views\\kitap\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\views\\kitap\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\views\\kitap\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\views\\dersler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\views\\dersler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\controllers\\dersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\controllers\\dersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|c:\\yeni klas\u00F6r\\mvc_1\\mvc_1\\mvc_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD766BF2-FC5F-4E21-A4AC-0BFB34771F43}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dersler.cs",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Controllers\\Dersler.cs",
+              "RelativeDocumentMoniker": "MVC_1\\Controllers\\Dersler.cs",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Controllers\\Dersler.cs",
+              "RelativeToolTip": "MVC_1\\Controllers\\Dersler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:51:48.521Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_1\\Views\\Ogrenci\\Index.cshtml",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeToolTip": "MVC_1\\Views\\Ogrenci\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T07:47:33.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Controllers\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "MVC_1\\Controllers\\Ogrenci.cs",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Controllers\\Ogrenci.cs",
+              "RelativeToolTip": "MVC_1\\Controllers\\Ogrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:44:57.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVC_1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVC_1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T07:31:15.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_1\\Program.cs",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Program.cs",
+              "RelativeToolTip": "MVC_1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:27:57.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Kitap\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "MVC_1\\Views\\Kitap\\Ekle.cshtml",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Kitap\\Ekle.cshtml",
+              "RelativeToolTip": "MVC_1\\Views\\Kitap\\Ekle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T08:28:45.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Controllers\\Kitap.cs",
+              "RelativeDocumentMoniker": "MVC_1\\Controllers\\Kitap.cs",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Controllers\\Kitap.cs",
+              "RelativeToolTip": "MVC_1\\Controllers\\Kitap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:27:08.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T08:20:12.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Dersler\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_1\\Views\\Dersler\\Index.cshtml",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Dersler\\Index.cshtml",
+              "RelativeToolTip": "MVC_1\\Views\\Dersler\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T07:52:08.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Listele.cshtml",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Kitap\\Listele.cshtml",
+              "RelativeDocumentMoniker": "MVC_1\\Views\\Kitap\\Listele.cshtml",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Kitap\\Listele.cshtml",
+              "RelativeToolTip": "MVC_1\\Views\\Kitap\\Listele.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T08:28:16.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T07:30:24.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Yeni klas\u00F6r\\MVC_1\\MVC_1\\MVC_1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:29:39.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

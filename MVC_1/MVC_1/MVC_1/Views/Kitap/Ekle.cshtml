@@ -1,0 +1,28 @@
+﻿
+<h1>Kitap Ekle</h1>
+
+<form method="POST" action="/Kitap/Ekle">
+    <table>
+        <tr>
+            <td>Kitap Adı</td>
+            <td><input type="text" name="kitapAdi" required /></td>
+        </tr>
+        <tr>
+            <td>Yazar</td>
+            <td><input type="text" name="yazar" required /></td>
+        </tr>
+        <tr>
+            <td>Yayın Yılı</td>
+            <td><input type="number" name="yayinYili" required /></td>
+        </tr>
+        <tr>
+            <td>Sayfa Sayısı</td>
+            <td><input type="number" name="sayfaSayisi" required /></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="Ekle" />
+            </td>
+        </tr>
+    </table>
+</form>
