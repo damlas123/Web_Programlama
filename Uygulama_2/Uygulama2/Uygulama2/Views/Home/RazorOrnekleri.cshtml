@@ -1,0 +1,99 @@
+﻿<!--
+    Viewler sunucu tarafında çalışır.
+Viewler pure html kodlarıdır.
+HTML yazılan yorum kodları tarayıcıda görünür.
+-->
+@{
+// Bu yorum bloğu tarayıcıda görünmez.
+//burada c# kod blokları yazabilirsiniz.
+}
+
+<h1>Sunucu zaman bilgisi: @DateTime.Now.ToShortDateString()</h1>
+@{
+    // C# kod bloğu
+    var currentTime = DateTime.Now;
+    var txt = "Merhaba";
+}
+<hr />
+<h2>@txt</h2>
+<h3>@currentTime</h3>
+@*
+c# kod bloğu içinde yorum satırı yazabilirsiniz.
+Tarayıcıda görünmez.
+*@
+@{
+    // Razor kısmı 
+    var txtMerhaba = "Merhaba";
+    @:Web Programlama dersine hoşgeldiniz <b>@txtMerhaba</b>
+}
+<hr />
+
+<table class="table table-striped">
+<tr>
+    <th>Değişken</th>
+        <th>Değer</th>
+</tr>
+<tr>
+    <td>saat</td>
+    <td>@DateTime.Now.Hour</td>
+</tr>
+<tr>
+    <td>Dakika</td>
+    <td>@DateTime.Now.Minute</td>
+</tr>
+<tr>
+        <td><Saniye></td>
+        <td>@DateTime.Now.Second</td>
+</tr>
+</table>
+@for(var i = 0; i < 10; i++)
+{
+    @:i değişkenin değeri: <b>@i</b> </br>
+}
+@{
+    String[] ogrenciler = { "Ali", "Ayşe", "Mehmet", "Damla", "Zeynep" };
+    String ArananOgrenci = "Ayşe";
+    int kacinciSirada = Array.IndexOf(ogrenciler, ArananOgrenci);
+    int ogrenciSayisi = ogrenciler.Length;
+}
+@foreach(var Ogrenci in ogrenciler){
+        <p>Ogrenci ismi: @Ogrenci</p>
+    
+}
+Ogrenci sayısı:@ogrenciSayisi <br />
+@{
+    int haftaninGunu = (int)DateTime.Now.DayOfWeek;
+    string GunAdi = "";
+    switch (haftaninGunu)
+    {
+        case 0:
+            GunAdi = "Pazar";
+            break;
+        case 1:
+            GunAdi = "Pazartesi";
+            break;
+        case 2:
+            GunAdi = "Salı";
+            break;
+        case 3:
+            GunAdi = "Çarşamba";
+            break;
+        case 4:
+            GunAdi = "Perşembe";
+            break;
+        case 5:
+            GunAdi = "Cuma";
+            break;
+        case 6:
+            GunAdi = "Cumartesi";
+            break;
+    }
+}
+<hr/>
+<h1>Bugün günlerden @GunAdi</h1>
+@{
+    String[] Gunler = { "Pazar", "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi" };
+    int HaftaninGunu = (int)DateTime.Now.DayOfWeek;
+    
+    @:Bugün günlerden <b>@Gunler[HaftaninGunu]</b>
+}
