@@ -1,0 +1,54 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Hafta7.Controllers
+{
+    public class UserController : Controller
+    {
+
+        static List<Models.User> users = new List<Models.User>()
+        {
+            new Models.User(){username = "admin", password = "123456" , usercolorsettings = "light pink"},
+            new Models.User(){username = "damla", password = "12346" , usercolorsettings = "dark blue"},
+            new Models.User(){username = "ayse", password="124356", usercolorsettings = "light blue"}
+        };
+        public IActionResult LoginUser(Models.User usr)
+        {
+            foreach(var u in users)
+            {
+                if (u.username == usr.username && u.password == usr.password)
+                {
+                    HttpContext.Session.SetString("username", u.username);
+                    HttpContext.Session.SetString("usercolorsettings", u.usercolorsettings);
+                    var cookieOptions = new CookieOptions
+                    {
+                        Expires = DateTime.Now.AddMinutes(10) // Çerez süresini 10 dakika olarak ayarlıyoruz
+                        //gün saniye uygulamanın gününe göre yazılır.
+                    };
+                    HttpContext.Response.Cookies.Append("CookieUserColor", u.usercolorsettings, cookieOptions);
+
+                    return RedirectToAction(nameof(YetkiliUserSayfasi));
+                }
+            }
+            TempData["Hata"] = "Kullanıcı adı veya şifre hatalı";
+            return RedirectToAction("Index");
+        }
+        public IActionResult YetkiliUserSayfasi()
+        {
+            if (HttpContext.Session.GetString("username") is  not null)
+            {
+                ViewBag.username = HttpContext.Session.GetString("username");
+                ViewBag.usercolorsettings = HttpContext.Session.GetString("usercolorsettings");
+                return View();
+            }
+            else
+            {
+                TempData["Hata"] = "Yetkisiz giriş";
+                return RedirectToAction("Index");
+            }
+        }
+        public IActionResult Index()
+        {
+            return View();
+        }
+    }
+}

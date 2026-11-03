@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\Web_Programlama\\Hafta7\\Hafta7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17B525E9-003C-4FFB-9FCD-22CB7E830F77}|Hafta7\\Hafta7.csproj|c:\\github\\web_programlama\\hafta7\\hafta7\\hafta7\\views\\user\\yetkiliuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B525E9-003C-4FFB-9FCD-22CB7E830F77}|Hafta7\\Hafta7.csproj|solutionrelative:hafta7\\views\\user\\yetkiliuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B525E9-003C-4FFB-9FCD-22CB7E830F77}|Hafta7\\Hafta7.csproj|c:\\github\\web_programlama\\hafta7\\hafta7\\hafta7\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B525E9-003C-4FFB-9FCD-22CB7E830F77}|Hafta7\\Hafta7.csproj|solutionrelative:hafta7\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B525E9-003C-4FFB-9FCD-22CB7E830F77}|Hafta7\\Hafta7.csproj|c:\\github\\web_programlama\\hafta7\\hafta7\\hafta7\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B525E9-003C-4FFB-9FCD-22CB7E830F77}|Hafta7\\Hafta7.csproj|solutionrelative:hafta7\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B525E9-003C-4FFB-9FCD-22CB7E830F77}|Hafta7\\Hafta7.csproj|c:\\github\\web_programlama\\hafta7\\hafta7\\hafta7\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B525E9-003C-4FFB-9FCD-22CB7E830F77}|Hafta7\\Hafta7.csproj|solutionrelative:hafta7\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B525E9-003C-4FFB-9FCD-22CB7E830F77}|Hafta7\\Hafta7.csproj|c:\\github\\web_programlama\\hafta7\\hafta7\\hafta7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B525E9-003C-4FFB-9FCD-22CB7E830F77}|Hafta7\\Hafta7.csproj|solutionrelative:hafta7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YetkiliUser.cshtml",
+              "DocumentMoniker": "C:\\Github\\Web_Programlama\\Hafta7\\Hafta7\\Hafta7\\Views\\User\\YetkiliUser.cshtml",
+              "RelativeDocumentMoniker": "Hafta7\\Views\\User\\YetkiliUser.cshtml",
+              "ToolTip": "C:\\Github\\Web_Programlama\\Hafta7\\Hafta7\\Hafta7\\Views\\User\\YetkiliUser.cshtml",
+              "RelativeToolTip": "Hafta7\\Views\\User\\YetkiliUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-03T08:03:35.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Github\\Web_Programlama\\Hafta7\\Hafta7\\Hafta7\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hafta7\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Github\\Web_Programlama\\Hafta7\\Hafta7\\Hafta7\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Hafta7\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-03T07:39:25.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Github\\Web_Programlama\\Hafta7\\Hafta7\\Hafta7\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Hafta7\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Github\\Web_Programlama\\Hafta7\\Hafta7\\Hafta7\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Hafta7\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:38:45.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Github\\Web_Programlama\\Hafta7\\Hafta7\\Hafta7\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Hafta7\\Models\\User.cs",
+              "ToolTip": "C:\\Github\\Web_Programlama\\Hafta7\\Hafta7\\Hafta7\\Models\\User.cs",
+              "RelativeToolTip": "Hafta7\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:34:55.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\Web_Programlama\\Hafta7\\Hafta7\\Hafta7\\Program.cs",
+              "RelativeDocumentMoniker": "Hafta7\\Program.cs",
+              "ToolTip": "C:\\Github\\Web_Programlama\\Hafta7\\Hafta7\\Hafta7\\Program.cs",
+              "RelativeToolTip": "Hafta7\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T07:27:03.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

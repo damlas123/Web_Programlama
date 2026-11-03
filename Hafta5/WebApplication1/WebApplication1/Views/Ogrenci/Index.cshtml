@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Ogrenci Listesi";
+
+}
+<h1>@ViewData["Title"]</h1>
+<form method="post" action="../Ogrenci/Kaydet">
+   <table>
+       <tr>
+           <td>Ad Soyad</td>
+           <td><input type="text" name="Ad"/></td>
+           
+       </tr>
+        <tr>
+            <td>Numara</td>
+            <td><input type="text" name="Numara" /></td>
+        </tr>
+        <tr>
+        
+            <td><input type="submit" value="Ekle" /></td>
+        </tr>
+   </table>
+</form>

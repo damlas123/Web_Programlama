@@ -1,0 +1,25 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace WebApplication1.Controllers
+{
+    public class OgrenciController : Controller
+    {
+        [HttpGet] //Hİçbir şey yazılmadığında da htppget alınır
+        public IActionResult Index()
+        {
+            return View();
+        }
+        [HttpPost]
+        public string Index(string Ad, string Numara)
+        {
+            return Ad + " " + Numara;
+        }
+
+        public IActionResult Kaydet(Ogrenci ogrenci)
+        {
+            string txtinfo = "Burası öğrenci kontrollorindan kaydet actionı.";
+            return View();
+        }
+    
+    }
+}
