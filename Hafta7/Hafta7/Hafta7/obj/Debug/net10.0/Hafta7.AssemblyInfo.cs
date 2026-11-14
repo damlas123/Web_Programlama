@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hafta7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d1b7762cf4b15b97f4236d12dc7ffdbb081cef4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b006cffc754ac8eb4a6938e6b5936de4bbf8b75")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hafta7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hafta7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
